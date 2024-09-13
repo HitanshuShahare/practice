@@ -1,1 +1,1 @@
-console.log("hey i added push my repositry to github 😁")
+console.log("hey i added push my repositry to github 😁🍀")
